@@ -6,6 +6,7 @@
 </head>
 <body>
     <script>
+    //和平减一
         window.location.href = "https://www.peaceminusone.com"
     </script>
 </body>
